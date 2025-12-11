@@ -25,7 +25,7 @@ const BSS_Wireframes = () => {
           BSS Wireframes - Hệ Thống Đặt Lịch
         </h1>
         <p className="text-center text-gray-500 mb-6 italic">
-          Mô phỏng dựa trên tài liệu đặc tả (Source: Báo cáo BSS)
+          cac màn chinh tạm thời có thể thay đổi cho phù hợp 
         </p>
         
         {/* Navigation Tabs */}
